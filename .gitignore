@@ -1,0 +1,35 @@
+# Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivos y carpetas de compilación
+bin/
+obj/
+debug/
+release/
+
+# Archivos de configuración temporales
+*.log
+*.vsidx
+*.pidb
+*.cache
+
+# Paquetes NuGet
+*.nupkg
+packages/
+project.lock.json
+
+# Archivos de configuración locales
+launchSettings.json
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Configuración del entorno
+.env
